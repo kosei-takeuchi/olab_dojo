@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body    {
+    text-align:left;
+    background-image: url("../images/323011.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    color: white;
+}
+
+ul  {
+    list-style-type: square;
+}
+
+a   {
+    color: orangered;
+}
+
+.other  {
+    color: #4c21b0;
+    text-align:center;
+}
+
+.base h1 {
+    text-align:center;
+    border-bottom: dotted 2px #800000;
+}
